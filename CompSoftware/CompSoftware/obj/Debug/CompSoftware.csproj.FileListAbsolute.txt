@@ -1,0 +1,10 @@
+C:\Users\titet\Desktop\School\Spring 2022\Coop\CompSoftware\CompSoftware\bin\Debug\CompSoftware.exe.config
+C:\Users\titet\Desktop\School\Spring 2022\Coop\CompSoftware\CompSoftware\bin\Debug\CompSoftware.exe
+C:\Users\titet\Desktop\School\Spring 2022\Coop\CompSoftware\CompSoftware\bin\Debug\CompSoftware.pdb
+C:\Users\titet\Desktop\School\Spring 2022\Coop\CompSoftware\CompSoftware\obj\Debug\CompSoftware.csproj.AssemblyReference.cache
+C:\Users\titet\Desktop\School\Spring 2022\Coop\CompSoftware\CompSoftware\obj\Debug\CompSoftware.frmMain.resources
+C:\Users\titet\Desktop\School\Spring 2022\Coop\CompSoftware\CompSoftware\obj\Debug\CompSoftware.Properties.Resources.resources
+C:\Users\titet\Desktop\School\Spring 2022\Coop\CompSoftware\CompSoftware\obj\Debug\CompSoftware.csproj.GenerateResource.cache
+C:\Users\titet\Desktop\School\Spring 2022\Coop\CompSoftware\CompSoftware\obj\Debug\CompSoftware.csproj.CoreCompileInputs.cache
+C:\Users\titet\Desktop\School\Spring 2022\Coop\CompSoftware\CompSoftware\obj\Debug\CompSoftware.exe
+C:\Users\titet\Desktop\School\Spring 2022\Coop\CompSoftware\CompSoftware\obj\Debug\CompSoftware.pdb
