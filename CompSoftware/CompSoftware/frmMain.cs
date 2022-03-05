@@ -26,5 +26,10 @@ namespace CompSoftware
         {
             ProgOps.CloseDataBase();
         }
+
+        private void btnLogin_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
