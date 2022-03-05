@@ -29,5 +29,10 @@ namespace CompSoftware
             //dispose of db
             _cntDatabase.Dispose();
         }
+
+        public static void Login(String email, string password)
+        {
+
+        }
     }
 }
